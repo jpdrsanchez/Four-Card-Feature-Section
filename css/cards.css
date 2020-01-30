@@ -24,6 +24,7 @@
 
 .cards__subcontainer {
   max-width: 340px;
+  margin: 0 1rem;
 }
 
 @media (min-width: 769px) {
