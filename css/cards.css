@@ -39,7 +39,7 @@
   }
 }
 
-.cards__container--blue {
+.cards__container--cyan {
   border-color: hsl(212, 86%, 64%);
 }
 
@@ -55,7 +55,7 @@
   max-width: 100%;
 }
 
-.cards__container--cyan {
+.cards__container--blue {
   border-color: hsl(180, 62%, 55%);
 }
 
