@@ -1,0 +1,65 @@
+*,
+*::after,
+*::before {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a { text-decoration: none;}
+
+body {
+  background: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+
+h1,
+h2 {
+  color: hsl(234, 12%, 34%);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.title {
+  font-size: 1.5em;
+  font-weight: 200;
+}
+
+@media (min-width: 769px) {
+  .title {
+    font-size: 2.5em;
+  }
+}
+
+.break {
+  display: block;
+  font-weight: 600;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 1rem;
+  position: relative;
+}
+
+@media (min-width: 769px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}

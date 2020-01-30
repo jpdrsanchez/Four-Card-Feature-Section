@@ -1,0 +1,16 @@
+.about {
+  margin-top: 5rem;
+}
+
+.about__title {
+  text-align: center;
+  line-height: 1.4;
+}
+
+.about__text {
+  color: hsl(229, 6%, 66%);
+  line-height: 1.6;
+  text-align: center;
+  margin: 1rem auto 3rem auto;
+  max-width: 500px;
+}
