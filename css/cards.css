@@ -16,7 +16,7 @@
   border-radius: .25rem;
   border-top: .25rem solid;
   box-shadow: 0 1rem 1rem 0 rgb(163, 165, 174, .3);
-  margin: 1rem;
+  margin: 2rem;
   max-width: 340px;
   overflow: hidden;
   padding: 2rem;
@@ -45,13 +45,13 @@
 
 .cards__container--red {
   border-color: hsl(0, 78%, 62%);
-  margin: 1rem 0;
+  margin: 2rem 0;
   max-width: 100%;
 }
 
 .cards__container--orange {
   border-color: hsl(34, 97%, 64%);
-  margin: 1rem 0;
+  margin: 2rem 0;
   max-width: 100%;
 }
 
@@ -69,7 +69,7 @@
   color: hsl(229, 6%, 66%);
   font-size: .866667em;
   line-height: 1.6;
-  margin-bottom: 2rem;
+  margin-bottom: 2.25rem;
 }
 
 .cards__image {
